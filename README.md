@@ -50,10 +50,27 @@
 ## 🎮 Interactive Animations
 
 ### 🐍 Classic Snake Game Animation
-![Snake Game](https://media.giphy.com/media/xT1XGzt7wD7fc2NNbO/giphy.gif)
+![Snake Game](https://media.giphy.com/media/3o6ozsAkqRi7pl1GZq/giphy.gif)
 
 ### ⚽ Cool Ball Game Action
-![Ball Game](https://media.giphy.com/media/xT0xemLC95M8uAdMeQ/giphy.gif)
+![Ball Game](https://media.giphy.com/media/5uM5OKO6GQHR4ZazgA/giphy.gif)
 
 ### 🎨 Creative Design Process
-![Design Process](https://media.giphy.com/media/xT0B9JRG2mbk2OCxSg/giphy.gif)
+![Design Process](https://media.giphy.com/media/xT1XGzt7wD7fc2NNbO/giphy.gif)
+
+### 🌐 Web Coding Animation
+![Web Coding](https://media.giphy.com/media/xT1XGkb5kN91e5eXRa/giphy.gif)
+
+### 🚀 Space Rocket Launch
+![Rocket Launch](https://media.giphy.com/media/3o6fJ8H8hMpoF9Iq1S/giphy.gif)
+
+### 💡 Lightbulb Moment
+![Lightbulb](https://media.giphy.com/media/3o6fJdA5GVuIKpTLvS/giphy.gif)
+
+### 🎨 Artistic Brush Strokes
+![Brush Strokes](https://media.giphy.com/media/xT0xeJpnrWC4Xk1VSg/giphy.gif)
+
+<!---
+zakycahyohadi/zakycahyohadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
