@@ -26,8 +26,11 @@
 ## ⚡ Fun Fact
 - Always experimenting with new **technologies** and **tools** to enhance my **coding skills**, **problem-solving abilities**, and **design creativity**. 🧠💡🎨
 
-## 🎮 Fun Game: Guess the Tech!
-Can you guess the tech based on these emoji hints? 🕵️‍♂️
+## 🎮 Fun Game: Play a Classic Snake Game!
+Check out this [**Classic Snake Game**](https://play.google.com/store/apps/details?id=com.snake.game) and try to beat your high score! 🐍
+
+## 🕹️ Play a Cool Ball Game
+Play this [**Ball Game**](https://www.coolmathgames.com/0-ballz) and test your reflexes! ⚽
 
 - 🌐📊🔐: [**React**](https://reactjs.org/)
 - 🖼️🔍📈: [**Data Science**](https://www.datacamp.com/)
