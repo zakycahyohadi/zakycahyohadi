@@ -17,8 +17,8 @@
 - **Creative Design Projects** 🌟
 
 ## 📫 How to Reach Me
-- **Email**: [zakycahyohadi@example.com](mailto:zakycahyohadi@example.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/zakycahyohadi)
+- **Email**: [zakycahyohadi@example.com](zakycahyohadi@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/zaky-cahyo-hadi-257471285/)
 
 ## 😄 Pronouns
 - He/Him
