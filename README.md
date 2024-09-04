@@ -4,14 +4,17 @@
 - **Cybersecurity** 🛡️
 - **Web Development** 🌐
 - Passionate about **Flutter** 🦋 and **Dart** 🏹
+- **Graphic Design** 🎨
 
 ## 🌱 Currently Learning
 - Advanced **Cybersecurity** techniques 🔐
 - Building **Dynamic** and **Responsive** apps with **Flutter** 📱
+- **Graphic Design** fundamentals and tools 🖌️
 
 ## 💞️ Looking to Collaborate On
 - **Innovative Cybersecurity** projects 💻
 - **Cutting-edge Flutter** applications 🚀
+- **Creative Graphic Design** projects 🎨
 
 ## 📫 How to Reach Me
 - **Email**: [zakycahyohadi@example.com](mailto:zakycahyohadi@example.com)
@@ -21,7 +24,14 @@
 - He/Him
 
 ## ⚡ Fun Fact
-- Always experimenting with new **technologies** and **tools** to enhance my **coding skills** and **problem-solving abilities**. 🧠💡
+- Always experimenting with new **technologies** and **tools** to enhance my **coding skills**, **problem-solving abilities**, and **design creativity**. 🧠💡🎨
+
+## 🎮 Fun Game: Guess the Tech!
+Can you guess the tech based on these emoji hints? 🕵️‍♂️
+
+- 🌐📊🔐: [**React**](https://reactjs.org/)
+- 🖼️🔍📈: [**Data Science**](https://www.datacamp.com/)
+- ☁️🔧🚀: [**AWS**](https://aws.amazon.com/)
 
 ## 💻 Technologies & Tools
 - **Languages**:
@@ -49,12 +59,10 @@
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+  ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+  ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=black)
 
 ## 📈 GitHub Stats
-![Zaky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakycahyohadi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakycahyohadi&theme=radical&layout=compact)
-
-<!---
-zakycahyohadi/zakycahyohadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Zaky's GitHub Stats](https://github-readme-st
